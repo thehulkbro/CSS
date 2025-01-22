@@ -18,7 +18,7 @@ body{
     box-shadow: 5px 20px 50px #000;
     background-image: url(./IMG_0810.jpg);
     background-repeat: no-repeat;
-  background-size: 400px 600px;
+    background-size: cover;
 }
 #chk{
     display: none;
